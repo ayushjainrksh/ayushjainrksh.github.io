@@ -8853,3 +8853,23 @@ textarea.form-control {
   height: calc(75vh);
   min-height: 0;
 } */
+
+.calendar {
+  background: whitesmoke;
+}
+
+.calendar h2{
+  color: #121212;
+}
+
+@media (max-width:768px) { 
+  /* .calendar {
+    width: 100%;
+  } */
+  #gitcal {
+    width: 100%;
+  }
+  /* #gitcal svg{
+    width: 100%;
+  } */
+}
