@@ -8876,4 +8876,7 @@ div h5{
   /* #gitcal svg{
     width: 100%;
   } */
+  .js-calendar-graph-svg {
+    width: 100%;
+  }
 }

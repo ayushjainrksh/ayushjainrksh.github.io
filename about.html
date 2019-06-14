@@ -414,11 +414,10 @@
 		</script>
 
 			<script>
-				// var mySVG = document.getElementsByTagName('svg');
-				// console.log(mySVG);
-				// mySVG.viewBox = "0 0 722 112";
-				// mySVG[0].setAttribute("viewBox", "0 0 722 112");
-				// mySVG.setAttribute("width", "100%");
+				var mySVG = document.getElementsByClassName('js-calendar-graph-svg');
+				setTimeout(function(){ 
+					mySVG[0].setAttribute("viewBox", "0 0 722 112");
+				}, 2000);
 			</script>
     
   </body>
