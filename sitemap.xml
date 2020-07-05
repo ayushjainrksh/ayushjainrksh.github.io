@@ -4,36 +4,34 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
 
 <url>
-  <loc>https://ayushj.me/</loc>
+  <loc>https://ayushja.in/</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://ayushj.me/index.html</loc>
+  <loc>https://ayushja.in/index.html</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ayushj.me/about.html</loc>
+  <loc>https://ayushja.in/about.html</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ayushj.me/services.html</loc>
+  <loc>https://ayushja.in/services.html</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ayushj.me/portfolio.html</loc>
+  <loc>https://ayushja.in/portfolio.html</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ayushj.me/contact.html</loc>
+  <loc>https://ayushja.in/contact.html</loc>
   <lastmod>2019-06-14T20:45:36+00:00</lastmod>
   <priority>0.80</priority>
 </url>
