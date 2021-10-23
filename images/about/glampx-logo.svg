@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="314" height="161" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 314 161" style="enable-background:new 0 0 314 161;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:none;}
+		.st1{fill:#0094D2;}
+		.st2{fill:url(#SVGID_1_);}
+	</style>
+	<g>
+		<g>
+			<path class="st0" d="M110.7,43.8c-5.1-4.3-13-6.5-23.5-6.5H41.4V87h45.8c5.4,0,10.1-0.6,14-1.9c3.8-1.2,7-2.9,9.5-5.1
+			c2.5-2.1,4.2-4.7,5.5-7.7c1.3-3.1,1.9-6.7,1.9-10.6C118,53.8,115.6,48,110.7,43.8z"/>
+			<path class="st1" d="M150.6,34.8c-3-7.5-7.6-13.9-13.8-19.1C130.7,10.6,123.1,6.6,114,4c-8.9-2.6-19.5-4-31.5-4H0v161.5h37.3V120
+			l45.4,0.1c12.1,0,22.7-1.5,31.7-4.4c9.1-3,16.7-7.2,22.7-12.6c6.1-5.4,10.6-12,13.6-19.4c2.9-7.3,4.4-15.4,4.4-24
+			C155,50.5,153.5,42.1,150.6,34.8z M118,61.6c0,3.9-0.6,7.5-1.9,10.6c-1.2,3.1-3,5.6-5.5,7.7c-2.5,2.2-5.7,3.9-9.5,5.1
+			c-3.9,1.3-8.6,1.9-14,1.9H41.4V37.3h45.8c10.6,0,18.5,2.2,23.5,6.5C115.6,48,118,53.8,118,61.6z"/>
+		</g>
+		<polygon class="st2" 
+		points="262.6,99.3 310.8,37.3 264.1,37.3 238.5,70.1 211.5,37.3 163.6,37.3 215,99.5 165.6,161.5 
+			212.4,161.5 238.3,127.8 266.2,161.5 314,161.5"/>
+
+		<!-- animate gradient -->
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="314" y2="191">
+			<stop offset="0%" stop-color="#7A5FFF">
+				<animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+			</stop>
+
+			<stop offset="100%" stop-color="#01FF89">
+				<animate attributeName="stop-color" values="#01FF89; #7A5FFF; #01FF89" dur="4s" repeatCount="indefinite"></animate>
+			</stop>
+		</linearGradient>
+	</g>
+</svg>
